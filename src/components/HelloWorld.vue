@@ -11,7 +11,7 @@
       <a
         href="https://vuejs.org/v2/guide/"
         target="_blank"
-      >Vue 2 Documentation</a>
+      >Vue 2 aaa</a>
     </p>
 
     <button @click="count++">count is: {{ count }}</button>
